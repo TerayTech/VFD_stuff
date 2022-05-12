@@ -1,0 +1,3 @@
+# STM8_PT6312_VFD
+这里是STM8驱动以PT6312作为驱动IC的VFD液晶显示模组的例程<br>
+后期将会被移植上arduino
